@@ -12,4 +12,16 @@
 * **git init**
 * **git add**
 * **git status**
+* **git commit**
+* **git log**
+* **git checkout**
+* **git checkoutmaster**
+* **git branch**
+* **git merge**
+* **git show**
 
+| Имя                  | Почта                 | 
+| :------------------- | -------------------:  |
+| git config --global  | git config --global   |
+| user.name            | user.email            |
+| "email@mail.com"     | "User Name"           |
